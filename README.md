@@ -17,7 +17,7 @@ ___
 > ###Chorme Current Version(2020/12/26)
 > 버전에 맞는 각 브라우저 드라이버를 설치 필요.(ex: Chrome)
 > ![](./ver.PNG)   
-> ```87.0.4280.88```
+> ```Current Version: 87.0.4280.88```
 
 ## _Comment_
 > 네이버 API...? 시러 ㅎ
