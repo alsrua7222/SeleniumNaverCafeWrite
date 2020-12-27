@@ -21,3 +21,7 @@ ___
 
 ## _Comment_
 > 네이버 API...? 시러 ㅎ
+
+## _Links_
+> [SmartEditor 2.0](https://github.com/naver/smarteditor2)   
+> [SmartEditor 2.0 Demo](http://naver.github.io/smarteditor2/demo/)
