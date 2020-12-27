@@ -14,11 +14,11 @@ ___
 ## _How to use it?_
 > run.py를 직접 수정하면 된다.   
 > 각 소스 코드마다 주석처리 되어 있으니, 참고 바람   
-> #### Chorme Current Version(2020/12/26)
+> #### _Chorme Current Version(2020/12/26)_
 > > 버전에 맞는 각 브라우저 드라이버를 설치 필요.(ex: Chrome)
 > > ![](./ver.PNG)   
 > > ```Current Version: 87.0.4280.88```   
-> #### How to Content(HTML) Create
+> #### _How to Content(HTML) Create_
 > > content를 HTML양식으로 꾸미고 싶다면?   
 > > 카페 글쓰기 본문 내용을 제대로 꾸미고 싶다면?   
 > > [SmartEditor 2.0 Demo] [1]에 들어가서 본문 내용을 마음대로 적고   
@@ -37,3 +37,6 @@ ___
 ## _Links_
 > [SmartEditor 2.0](https://github.com/naver/smarteditor2)   
 > [1](http://naver.github.io/smarteditor2/demo/)
+
+## _update_
+> 2020
