@@ -14,8 +14,8 @@ ___
 ## _How to use it?_
 > run.py를 직접 수정하면 된다.   
 > 각 소스 코드마다 주석처리 되어 있으니, 참고 바람   
+> 각 버전 main.py 참고   
 > #### 1.0.1
-> > main.py 참고
 > > ```naver = Naver()``` Not Headless node   
 > > ```naver = Naver(True)``` Headless mode   
 > > ```naver.n_id = "INPUT_YOUR_ID_STR"``` 네이버 아이디   
@@ -27,6 +27,8 @@ ___
 > > ```naver.imgUrl = "INPUT_YOUR_IMAGE_STR"``` 대표 이미지 설정 (절대 경로만 가능. Ex) "C:\\Users\\Project_selenium\\sample.png")   
 > > ```naver.sleep_sec = INPUT_SLEEP_INT``` 지연 시간(똥컴은 3초, 보통컴은 0.5 ~ 1초, 쩌는 컴은 0.1 ~ 0.5초 추천), Default값은 0.5초로 되어 있음.   
 > > ```naver.main()``` 앱 실행 함수
+> #### 1.0.2    
+> > ```naver.BTime = "INPUT_YOU_WANT_TIME"``` 예약 시간 Ex) "" 예약X, "23:53:52" 예약됨. 반드시 ':' 넣어서 시간 구분해야 함   
 > #### _Chorme Current Version(2020/12/26)_
 > > Driver.exe 파일은 현재 파일에 module 폴더에 넣어야 함.   
 > > Ex) ../selenium/module/ 에 넣기.   
