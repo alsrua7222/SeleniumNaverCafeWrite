@@ -36,7 +36,7 @@ ___
 
 ## _Links_
 > [SmartEditor 2.0](https://github.com/naver/smarteditor2)   
-> [1](http://naver.github.io/smarteditor2/demo/)
+> [1]: http://naver.github.io/smarteditor2/demo/
 
 ## _update_
 > 2020
