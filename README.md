@@ -24,8 +24,8 @@ ___
 > > ```naver.menuID = INPUT_MENU_ID_INT``` 가입된 카페의 메뉴 번호   
 > > ```naver.title = "INPUT_TITLE_STR"``` 글쓰기 제목   
 > > ```naver.content = "INPUT_CONTENT_HTML_STR"``` 글쓰기 본문(내용)   
-> > ```naver.imgUrl = "INPUT_YOUR_IMAGE_STR"``` 대표 이미지 설정 (절대 경로만 가능. Ex) "C:\\Users\\Project_selenium\\sample.png")
-> > ```naver.sleep_sec = INPUT_SLEEP_INT``` 지연 시간(똥컴은 3초, 보통컴은 0.5 ~ 1초, 쩌는 컴은 0.1 ~ 0.5초 추천), Default값은 0.5초로 되어 있음.
+> > ```naver.imgUrl = "INPUT_YOUR_IMAGE_STR"``` 대표 이미지 설정 (절대 경로만 가능. Ex) "C:\\Users\\Project_selenium\\sample.png")   
+> > ```naver.sleep_sec = INPUT_SLEEP_INT``` 지연 시간(똥컴은 3초, 보통컴은 0.5 ~ 1초, 쩌는 컴은 0.1 ~ 0.5초 추천), Default값은 0.5초로 되어 있음.   
 > > ```naver.main()``` 앱 실행 함수
 > #### _Chorme Current Version(2020/12/26)_
 > > 버전에 맞는 각 브라우저 드라이버를 설치 필요.(ex: Chrome)
