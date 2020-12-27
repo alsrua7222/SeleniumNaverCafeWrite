@@ -28,6 +28,9 @@ ___
 > > ```naver.sleep_sec = INPUT_SLEEP_INT``` 지연 시간(똥컴은 3초, 보통컴은 0.5 ~ 1초, 쩌는 컴은 0.1 ~ 0.5초 추천), Default값은 0.5초로 되어 있음.   
 > > ```naver.main()``` 앱 실행 함수
 > #### _Chorme Current Version(2020/12/26)_
+> > Driver.exe 파일은 현재 파일에 module 폴더에 넣어야 함.   
+> > Ex) ../selenium/module/ 에 넣기.   
+> > driver.exe 파일 명을 바꾸면 안돼요.   (Don't renaming the driver.exe)
 > > 버전에 맞는 각 브라우저 드라이버를 설치 필요.(ex: Chrome)
 > > ![](./ver.PNG)   
 > > ```Current Version: 87.0.4280.88```   
