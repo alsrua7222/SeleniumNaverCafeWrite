@@ -14,6 +14,19 @@ ___
 ## _How to use it?_
 > run.py를 직접 수정하면 된다.   
 > 각 소스 코드마다 주석처리 되어 있으니, 참고 바람   
+> #### 1.0.1
+> > main.py 참고
+> > ```naver = Naver()``` Not Headless node   
+> > ```naver = Naver(True)``` Headless mode   
+> > ```naver.n_id = "INPUT_YOUR_ID_STR"``` 네이버 아이디   
+> > ```naver.n_pw = "INPUT_YOUR_PW_STR"``` 네이버 비밀번호   
+> > ```naver.cafeID = INPUT_CAFE_ID_INT``` 가입된 카페 번호   
+> > ```naver.menuID = INPUT_MENU_ID_INT``` 가입된 카페의 메뉴 번호   
+> > ```naver.title = "INPUT_TITLE_STR"``` 글쓰기 제목   
+> > ```naver.content = "INPUT_CONTENT_HTML_STR"``` 글쓰기 본문(내용)   
+> > ```naver.imgUrl = "INPUT_YOUR_IMAGE_STR"``` 대표 이미지 설정 (절대 경로만 가능. Ex) "C:\\Users\\Project_selenium\\sample.png")
+> > ```naver.sleep_sec = INPUT_SLEEP_INT``` 지연 시간(똥컴은 3초, 보통컴은 0.5 ~ 1초, 쩌는 컴은 0.1 ~ 0.5초 추천), Default값은 0.5초로 되어 있음.
+> > ```naver.main()``` 앱 실행 함수
 > #### _Chorme Current Version(2020/12/26)_
 > > 버전에 맞는 각 브라우저 드라이버를 설치 필요.(ex: Chrome)
 > > ![](./ver.PNG)   
@@ -39,4 +52,7 @@ ___
 > [SmartEditor 2.0 Demo](http://naver.github.io/smarteditor2/demo/)
 
 ## _update_
-> 2020
+> #### 1.0.0(2020/12/25)
+> > 애새끼마냥 싸지러놓음 코드가 복잡함.
+> #### 1.0.1(2020/12/27)
+> > 클래스로 싹다 정리한 후, 가이드 라인을 추가함.
