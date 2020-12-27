@@ -21,7 +21,7 @@ ___
 > #### _How to Content(HTML) Create_
 > > content를 HTML양식으로 꾸미고 싶다면?   
 > > 카페 글쓰기 본문 내용을 제대로 꾸미고 싶다면?   
-> > [SmartEditor 2.0 Demo] [1]에 들어가서 본문 내용을 마음대로 적고   
+> > [SmartEditor 2.0 Demo][1]에 들어가서 본문 내용을 마음대로 적고   
 > > 복사하고 content 변수의 ""(큰따옴표)안에 붙여넣으면 된다.   
 > > 오른쪽 밑을 보면 [Editor] | HTML | TEXT가 보일 것이다.   
 > > Editor에서 마음대로 작성한 후에, HTML 모드로 바꾸면 내용들이 HTML 양식대로 변환한다.   
