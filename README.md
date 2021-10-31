@@ -1,5 +1,5 @@
-# SeleniumNaverCafeWrite
-네이버카페에서 자동 글쓰기(Not Headless)
+# SeleniumNaverCafeWrite(네이버카페에서 자동 글쓰기(Not Headless))
+![logo](./title.png/)
 ___
 ## _Warning!_
 > 재미로 즐기는 것이므로, 악질적인 홍보와 같은 광고 산업에 악용하면 안됨.  
